@@ -1,11 +1,11 @@
 # A LinkStack Theme
-*	Theme Name: dielinke
-*	Theme Version: 1.1
+*	Theme Name: dielinke-rot
+*	Theme Version: 1.2
 *	Theme Date: 2024-02-01
 *	Theme Author: @hutt
 *	Theme Author URI: https://github.com/hutt
 *	Theme License: GPLv3
-*	Source code: https://github.com/hutt/dielinke-linkstack-theme
+*	Source code: https://github.com/hutt/linkstack-dielinke-rot
 
 
 ### Used assets:
