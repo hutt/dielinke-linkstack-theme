@@ -1,8 +1,8 @@
 # A LinkStack Theme
 *	Theme Name: dielinke
-*	Theme Version: 1.0
+*	Theme Version: 1.1
 *	Theme Date: 2024-02-01
-*	Theme Author: Jannis Hutt
+*	Theme Author: @hutt
 *	Theme Author URI: https://github.com/hutt
 *	Theme License: GPLv3
 *	Source code: https://github.com/hutt/dielinke-linkstack-theme
