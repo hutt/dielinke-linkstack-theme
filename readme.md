@@ -1,6 +1,6 @@
 # A LinkStack Theme
 *	Theme Name: dielinke-rot
-*	Theme Version: 1.2
+*	Theme Version: 1.3
 *	Theme Date: 2024-02-01
 *	Theme Author: @hutt
 *	Theme Author URI: https://github.com/hutt
